@@ -202,13 +202,10 @@ Onboarding 2026.2
 
 Desenvolvido por **João Pedro Santana Silva Santos**
 
-GitHub: [@SEU-USUARIO](https://github.com/J3ipy)
+GitHub: [@J3ipy](https://github.com/J3ipy)
 
 ---
 
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais durante o onboarding da equipe de Tecnologia da Informação do GEPPS.
-
-
-pelos seus dados.
